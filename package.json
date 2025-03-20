@@ -1,0 +1,12 @@
+{
+  "name": "web-kalkulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "faktulet.js",
+ "scripts": {
+    "test": "node --test"
+ 
+  },
+  "author": "",
+  "license": "ISC"
+}
